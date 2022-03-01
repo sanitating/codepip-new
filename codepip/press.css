@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 900px;
+  margin: 0px auto;
+}
+.img-responsive {
+  max-width: 100%;
+  display: block;
+}
+.press {
+  background-color: #f5f7f9;
+  padding: 50px;
+}
+.blue {
+  background-color: #122f50;
+  width: 50%;
+  padding: 140px 20px 140px 20px;
+  margin-right: 26px;
+}
+.white {
+  background-color: #eee;
+  width: 50%;
+  padding: 140px 20px 140px 20px;
+}
+.heading h2 {
+  text-align: center;
+  padding-top: 8%;
+  padding-bottom: 8%;
+  font-family: source sans pro, sans-serif;
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 2em;
+}
+.brand h2 {
+  text-align: center;
+  padding-top: 8%;
+  font-family: source sans pro, sans-serif;
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 2em;
+}
+.box {
+  background-color: #fff;
+  box-shadow: 0 0 2px rgb(0 0 0 / 20%);
+  padding: 0px 100px 100px 100px;
+}
+.brand h3 {
+  padding-bottom: 8%;
+  font-family: source sans pro, sans-serif;
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 2em;
+}
+p {
+  font-size: 20px;
+  font-family: source sans pro, sans-serif;
+  color: rgba(0, 0, 0, 0.7);
+}
+.logo {
+  display: flex;
+}
